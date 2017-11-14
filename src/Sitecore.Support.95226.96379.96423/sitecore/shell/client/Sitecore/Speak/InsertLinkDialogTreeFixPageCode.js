@@ -10,6 +10,7 @@
                 },
                 this);
 
+
             // work around an issue in combobox
             this.TargetsDataSource.on("change:items",
                 function() {
